@@ -1,2 +1,2 @@
-# javascript_calculator
-a calculator project without using eval function
+# Live Demo [Here](https://abderrahim-kharit.github.io/javascript_calculator/).
+A CALCULATOR WITH VANILLA JAVASCRIPT
